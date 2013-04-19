@@ -1,0 +1,8 @@
+E:\My Project\TBK\TBK\ANALYSE_CHAT\bin\Debug\ANALYSE_CHAT.exe
+E:\My Project\TBK\TBK\ANALYSE_CHAT\bin\Debug\ANALYSE_CHAT.pdb
+E:\My Project\TBK\TBK\ANALYSE_CHAT\obj\Debug\ResolveAssemblyReference.cache
+E:\My Project\TBK\TBK\ANALYSE_CHAT\obj\Debug\ANALYSE_CHAT.ANALYSE_CHAT.resources
+E:\My Project\TBK\TBK\ANALYSE_CHAT\obj\Debug\ANALYSE_CHAT.Properties.Resources.resources
+E:\My Project\TBK\TBK\ANALYSE_CHAT\obj\Debug\ANALYSE_CHAT.csproj.GenerateResource.Cache
+E:\My Project\TBK\TBK\ANALYSE_CHAT\obj\Debug\ANALYSE_CHAT.exe
+E:\My Project\TBK\TBK\ANALYSE_CHAT\obj\Debug\ANALYSE_CHAT.pdb

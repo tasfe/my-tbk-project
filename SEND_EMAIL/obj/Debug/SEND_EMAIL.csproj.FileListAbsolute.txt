@@ -1,0 +1,8 @@
+E:\My Project\TBK\TBK\SEND_EMAIL\bin\Debug\SEND_EMAIL.exe
+E:\My Project\TBK\TBK\SEND_EMAIL\bin\Debug\SEND_EMAIL.pdb
+E:\My Project\TBK\TBK\SEND_EMAIL\obj\Debug\ResolveAssemblyReference.cache
+E:\My Project\TBK\TBK\SEND_EMAIL\obj\Debug\SEND_EMAIL.SEND_EMAIL.resources
+E:\My Project\TBK\TBK\SEND_EMAIL\obj\Debug\SEND_EMAIL.Properties.Resources.resources
+E:\My Project\TBK\TBK\SEND_EMAIL\obj\Debug\SEND_EMAIL.csproj.GenerateResource.Cache
+E:\My Project\TBK\TBK\SEND_EMAIL\obj\Debug\SEND_EMAIL.exe
+E:\My Project\TBK\TBK\SEND_EMAIL\obj\Debug\SEND_EMAIL.pdb
