@@ -1,0 +1,8 @@
+E:\My Project\TBK\TBK\GET_TBKDATA\bin\Debug\GET_TBKDATA.exe
+E:\My Project\TBK\TBK\GET_TBKDATA\bin\Debug\GET_TBKDATA.pdb
+E:\My Project\TBK\TBK\GET_TBKDATA\obj\Debug\ResolveAssemblyReference.cache
+E:\My Project\TBK\TBK\GET_TBKDATA\obj\Debug\GET_TBKDATA.GET_TBKDATA.resources
+E:\My Project\TBK\TBK\GET_TBKDATA\obj\Debug\GET_TBKDATA.Properties.Resources.resources
+E:\My Project\TBK\TBK\GET_TBKDATA\obj\Debug\GET_TBKDATA.csproj.GenerateResource.Cache
+E:\My Project\TBK\TBK\GET_TBKDATA\obj\Debug\GET_TBKDATA.exe
+E:\My Project\TBK\TBK\GET_TBKDATA\obj\Debug\GET_TBKDATA.pdb
