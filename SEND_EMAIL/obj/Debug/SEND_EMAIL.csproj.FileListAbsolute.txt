@@ -6,3 +6,6 @@ E:\My Project\TBK\TBK\SEND_EMAIL\obj\Debug\SEND_EMAIL.Properties.Resources.resou
 E:\My Project\TBK\TBK\SEND_EMAIL\obj\Debug\SEND_EMAIL.csproj.GenerateResource.Cache
 E:\My Project\TBK\TBK\SEND_EMAIL\obj\Debug\SEND_EMAIL.exe
 E:\My Project\TBK\TBK\SEND_EMAIL\obj\Debug\SEND_EMAIL.pdb
+E:\My Project\TBK\TBK\SEND_EMAIL\bin\Debug\SEND_EMAIL.exe.config
+E:\My Project\TBK\TBK\SEND_EMAIL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My Project\TBK\TBK\SEND_EMAIL\bin\Debug\Microsoft.Office.Interop.Excel.xml
