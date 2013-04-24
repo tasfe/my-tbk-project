@@ -6,3 +6,6 @@ E:\My Project\TBK\TBK\GET_TBKDATA\obj\Debug\GET_TBKDATA.Properties.Resources.res
 E:\My Project\TBK\TBK\GET_TBKDATA\obj\Debug\GET_TBKDATA.csproj.GenerateResource.Cache
 E:\My Project\TBK\TBK\GET_TBKDATA\obj\Debug\GET_TBKDATA.exe
 E:\My Project\TBK\TBK\GET_TBKDATA\obj\Debug\GET_TBKDATA.pdb
+E:\My Project\TBK\TBK\GET_TBKDATA\bin\Debug\GET_TBKDATA.exe.config
+E:\My Project\TBK\TBK\GET_TBKDATA\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My Project\TBK\TBK\GET_TBKDATA\bin\Debug\Microsoft.Office.Interop.Excel.xml
