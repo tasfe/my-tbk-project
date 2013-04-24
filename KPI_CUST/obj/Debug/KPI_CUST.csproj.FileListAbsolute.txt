@@ -14,3 +14,6 @@ E:\My Project\TBK\TBK\KPI_CUST\obj\Debug\ResolveAssemblyReference.cache
 E:\My Project\TBK\TBK\KPI_CUST\obj\Debug\KPI_CUST.GetKPI_CUST.resources
 E:\My Project\TBK\TBK\KPI_CUST\obj\Debug\KPI_CUST.Properties.Resources.resources
 E:\My Project\TBK\TBK\KPI_CUST\obj\Debug\KPI_CUST.csproj.GenerateResource.Cache
+E:\My Project\TBK\TBK\KPI_CUST\bin\Debug\KPI_CUST.exe.config
+E:\My Project\TBK\TBK\KPI_CUST\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My Project\TBK\TBK\KPI_CUST\bin\Debug\Microsoft.Office.Interop.Excel.xml
