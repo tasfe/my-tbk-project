@@ -6,3 +6,6 @@ E:\My Project\TBK\TBK\CRM_CUST\obj\Debug\CRM_CUST.Properties.Resources.resources
 E:\My Project\TBK\TBK\CRM_CUST\obj\Debug\CRM_CUST.csproj.GenerateResource.Cache
 E:\My Project\TBK\TBK\CRM_CUST\obj\Debug\CRM_CUST.exe
 E:\My Project\TBK\TBK\CRM_CUST\obj\Debug\CRM_CUST.pdb
+E:\My Project\TBK\TBK\CRM_CUST\bin\Debug\CRM_CUST.exe.config
+E:\My Project\TBK\TBK\CRM_CUST\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My Project\TBK\TBK\CRM_CUST\bin\Debug\Microsoft.Office.Interop.Excel.xml
