@@ -31,6 +31,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CRG.Components, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="DBUtility, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="mysql.data, Version=5.0.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="RopSdk, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="RUIXUEROPAPI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="RUIXUETOPAPI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
@@ -46,6 +52,7 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="TopSdk, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ANALYSE_CHAT.cs">
@@ -54,6 +61,11 @@
     <Compile Include="ANALYSE_CHAT.Designer.cs">
       <DependentUpon>ANALYSE_CHAT.cs</DependentUpon>
     </Compile>
+    <Compile Include="common\common.cs" />
+    <Compile Include="common\Execute.cs" />
+    <Compile Include="common\MyHelper.cs" />
+    <Compile Include="common\MySQLExecute.cs" />
+    <Compile Include="common\SQLHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ANALYSE_CHAT.resx">
@@ -68,6 +80,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="App.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -6,3 +6,6 @@ E:\My Project\TBK\TBK\ANALYSE_CHAT\obj\Debug\ANALYSE_CHAT.Properties.Resources.r
 E:\My Project\TBK\TBK\ANALYSE_CHAT\obj\Debug\ANALYSE_CHAT.csproj.GenerateResource.Cache
 E:\My Project\TBK\TBK\ANALYSE_CHAT\obj\Debug\ANALYSE_CHAT.exe
 E:\My Project\TBK\TBK\ANALYSE_CHAT\obj\Debug\ANALYSE_CHAT.pdb
+E:\My Project\TBK\TBK\ANALYSE_CHAT\bin\Debug\ANALYSE_CHAT.exe.config
+E:\My Project\TBK\TBK\ANALYSE_CHAT\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My Project\TBK\TBK\ANALYSE_CHAT\bin\Debug\Microsoft.Office.Interop.Excel.xml
