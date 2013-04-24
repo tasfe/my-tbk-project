@@ -6,3 +6,6 @@ E:\My Project\TBK\TBK\MAKE_EMAILCONTENT\obj\Debug\MAKE_EMAILCONTENT.Properties.R
 E:\My Project\TBK\TBK\MAKE_EMAILCONTENT\obj\Debug\MAKE_EMAILCONTENT.csproj.GenerateResource.Cache
 E:\My Project\TBK\TBK\MAKE_EMAILCONTENT\obj\Debug\MAKE_EMAILCONTENT.exe
 E:\My Project\TBK\TBK\MAKE_EMAILCONTENT\obj\Debug\MAKE_EMAILCONTENT.pdb
+E:\My Project\TBK\TBK\MAKE_EMAILCONTENT\bin\Debug\MAKE_EMAILCONTENT.exe.config
+E:\My Project\TBK\TBK\MAKE_EMAILCONTENT\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My Project\TBK\TBK\MAKE_EMAILCONTENT\bin\Debug\Microsoft.Office.Interop.Excel.xml
