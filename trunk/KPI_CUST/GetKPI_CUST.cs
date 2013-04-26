@@ -20,6 +20,8 @@ namespace KPI_CUST
    
     public partial class GetKPI_CUST : Form
     {
+        common my_common;
+        
         public GetKPI_CUST()
         {
             InitializeComponent();
@@ -27,6 +29,13 @@ namespace KPI_CUST
 
         private void GetKPI_CUST_Load(object sender, EventArgs e)
         {
+            string sql = " SELECT * FROM dbo.T_TOP_INTERFACE_MSG A WHERE A.time>='" + common.exec_time_start() + "'" + " AND A.time<='" + common.exec_time_end() + "'";
+            sql += " AND A.buyer_uid NOT IN ( SELECT DISTINCT 'cntaobao' + B.BUYER_NICK FROM dbo.T_ERP_ORDER_PAID B WHERE B.PAID_DATE ='" + common.exec_date_f1() + "')";
+            sql += " ORDER BY A.nick ASC ,A.buyer_uid ASC,A.time ASC";
+
+            DataTable dt = Execute.ExecuteDataTable(common.StrKpiConn, sql);
+
+
 
         }
     }
